@@ -1,5 +1,7 @@
 # Cities: Skylines Politics Japanese Patch
 
+![Cities: Skylines Politics Japanese Patch](assets/repo-header.svg)
+
 [日本語](README.ja.md) | [Docs](docs/index.md) | [Notice](NOTICE.md)
 
 Local Japanese localization patcher for the Cities: Skylines 1 Workshop mod

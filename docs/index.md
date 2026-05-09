@@ -25,3 +25,4 @@ features:
     details: The helper script creates a timestamped backup before applying the patch.
 ---
 
+![Repository header](/repo-header.svg)

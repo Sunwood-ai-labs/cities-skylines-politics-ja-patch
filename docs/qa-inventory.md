@@ -9,6 +9,8 @@
 - Helper scripts live under `tools/`.
 - CI workflows live under `.github/workflows/`.
 - Docs live under `docs/`.
+- Header and social preview artwork live under `assets/`.
+- Docs-visible header artwork is mirrored under `docs/public/`.
 
 ## Binary Policy
 

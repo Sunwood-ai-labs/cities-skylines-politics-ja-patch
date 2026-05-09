@@ -25,3 +25,4 @@ features:
     details: 適用前にタイムスタンプ付きバックアップを作成します。
 ---
 
+![リポジトリヘッダー](/repo-header.svg)

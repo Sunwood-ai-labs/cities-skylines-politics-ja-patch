@@ -1,5 +1,7 @@
 # Cities: Skylines Politics 日本語化パッチ
 
+![Cities: Skylines Politics 日本語化パッチ](assets/repo-header.svg)
+
 [English](README.md) | [ドキュメント](docs/ja/index.md) | [Notice](NOTICE.md)
 
 Cities: Skylines 1 の Workshop MOD「Politics & Elections」を日本語化するための

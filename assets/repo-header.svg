@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cities: Skylines Politics Japanese Patch</title>
+  <desc id="desc">Header artwork for a Japanese localization patcher for the Cities: Skylines Politics and Elections mod.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#25343b"/>
+      <stop offset="0.48" stop-color="#35535d"/>
+      <stop offset="1" stop-color="#2f3e46"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e2a30"/>
+      <stop offset="1" stop-color="#11191d"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#0b1114" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#sky)"/>
+  <path d="M0 275 C150 245 238 296 389 264 C514 237 596 207 734 231 C884 257 1017 309 1280 251 L1280 420 L0 420 Z" fill="#6f8e82" opacity="0.78"/>
+  <path d="M0 315 C182 284 291 338 446 299 C596 261 736 282 870 313 C1013 346 1127 325 1280 293 L1280 420 L0 420 Z" fill="#91a66f" opacity="0.72"/>
+  <path d="M0 360 L1280 284 L1280 420 L0 420 Z" fill="url(#road)"/>
+  <path d="M72 381 L1180 315" stroke="#e5d67d" stroke-width="5" stroke-dasharray="42 32" opacity="0.82"/>
+
+  <g transform="translate(760 96)" opacity="0.95">
+    <rect x="0" y="94" width="40" height="158" fill="#d7dee0"/>
+    <rect x="58" y="44" width="58" height="208" fill="#b6c6c7"/>
+    <rect x="136" y="78" width="44" height="174" fill="#e4e8e5"/>
+    <rect x="202" y="18" width="74" height="234" fill="#c7d0cc"/>
+    <rect x="298" y="68" width="48" height="184" fill="#e2d3a2"/>
+    <rect x="366" y="38" width="68" height="214" fill="#b9c9d4"/>
+    <g fill="#25343b" opacity="0.45">
+      <path d="M18 114h8v8h-8zM18 138h8v8h-8zM18 162h8v8h-8zM18 186h8v8h-8z"/>
+      <path d="M76 72h10v10H76zM76 102h10v10H76zM76 132h10v10H76zM76 162h10v10H76zM96 72h10v10H96zM96 102h10v10H96zM96 132h10v10H96zM96 162h10v10H96z"/>
+      <path d="M222 48h12v12h-12zM248 48h12v12h-12zM222 84h12v12h-12zM248 84h12v12h-12zM222 120h12v12h-12zM248 120h12v12h-12z"/>
+      <path d="M386 66h12v12h-12zM412 66h12v12h-12zM386 102h12v12h-12zM412 102h12v12h-12zM386 138h12v12h-12zM412 138h12v12h-12z"/>
+    </g>
+  </g>
+
+  <g transform="translate(86 70)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="552" height="268" rx="18" fill="#f7f2df"/>
+    <rect x="0" y="0" width="552" height="68" rx="18" fill="#1f2f35"/>
+    <path d="M0 52h552v32H0z" fill="#1f2f35"/>
+    <circle cx="42" cy="34" r="12" fill="#4fb860"/>
+    <circle cx="78" cy="34" r="12" fill="#e9443f"/>
+    <circle cx="114" cy="34" r="12" fill="#ffbf24"/>
+    <text x="150" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#f7f2df">Politics &amp; Elections</text>
+    <text x="36" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#233238">政治と選挙</text>
+    <text x="36" y="166" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="650" fill="#3f575b">Cities: Skylines 1 MOD 日本語化パッチ</text>
+    <g transform="translate(36 198)">
+      <rect width="178" height="42" rx="8" fill="#4fb860"/>
+      <rect x="194" width="168" height="42" rx="8" fill="#e9443f"/>
+      <rect x="378" width="114" height="42" rx="8" fill="#358ad7"/>
+      <text x="22" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">UI strings</text>
+      <text x="216" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">Overlay</text>
+      <text x="402" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">Parties</text>
+    </g>
+  </g>
+
+  <g transform="translate(976 38)">
+    <rect x="0" y="0" width="188" height="128" rx="18" fill="#f7f2df" opacity="0.96"/>
+    <path d="M44 60h100l-10 46H54z" fill="#90a4ae"/>
+    <path d="M56 42h76l12 18H44z" fill="#d9e0df"/>
+    <path d="M72 24h44v34H72z" fill="#fff7c2"/>
+    <path d="M78 34h32M78 45h22" stroke="#405158" stroke-width="5" stroke-linecap="round"/>
+    <text x="94" y="100" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#1f2f35">日</text>
+  </g>
+</svg>
