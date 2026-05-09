@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Politics Japanese Patch Icon</title>
+  <desc id="desc">A ballot box and Japanese character mark.</desc>
+  <rect width="128" height="128" rx="18" fill="#263238"/>
+  <path d="M30 54h68l-8 44H38z" fill="#90a4ae"/>
+  <path d="M38 44h52l8 10H30z" fill="#cfd8dc"/>
+  <path d="M46 30h36v22H46z" fill="#fffde7"/>
+  <path d="M52 36h24M52 43h17" stroke="#455a64" stroke-width="4" stroke-linecap="round"/>
+  <text x="64" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1b2a30">日</text>
+</svg>

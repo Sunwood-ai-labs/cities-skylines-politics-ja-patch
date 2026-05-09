@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+out/
+dist/
+*.exe
+*.dll
+*.pdb
+
+# Cities: Skylines local artifacts
+*.codex-ja*-backup-*
+output_log.txt
+
+# Node / docs
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
+# Editor / OS
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini

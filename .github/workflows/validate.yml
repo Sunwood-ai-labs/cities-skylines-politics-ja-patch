@@ -1,0 +1,29 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  repository:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate repository shape
+        shell: pwsh
+        run: .\tools\validate-repo.ps1
+
+  docs:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: docs
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install docs dependencies
+        run: npm install
+      - name: Build docs
+        run: npm run build
